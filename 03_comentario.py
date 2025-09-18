@@ -3,7 +3,7 @@ print ("¡Hola MUndo!")
 #print ("esta linea no se ejecuta") (comentario)
 print("Esta linea si se ejecuta")
 
-#Division de secciones
+#Division de secciones (no se pudo realizar)
 
 #comentario a la derecha
 print("hola") 
